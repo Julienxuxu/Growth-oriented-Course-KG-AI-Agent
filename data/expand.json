@@ -1,0 +1,5 @@
+{
+  "type": "expand",
+  "node_name": "Python与数据表示",  //注意此处必须要是父节点
+  "section_text": "基本数据类型与变量。数值类型：int（整数）、float（浮点数）、complex（复数）。\n字符串：用单引号 '...'或双引号 \"...\"，支持切片、格式化（f-string、format()）。\n布尔值：True、False。\n空值：None。\n变量规则：变量名由字母、数字、下划线组成，不能以数字开头，区分大小写。"
+}
